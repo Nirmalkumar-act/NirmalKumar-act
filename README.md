@@ -23,7 +23,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -57,28 +57,28 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+Tech Stack
 
-### ðŸ’» Languages
+Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### âš›ï¸ Frameworks & Libraries
+Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 
-### ðŸ—„ï¸ Databases
+Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### ðŸ§° Tools & DevOps
+Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -89,7 +89,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸ“Š GitHub Stats
+GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Nirmalkumar-act">
@@ -102,7 +102,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸ”¥ Streak Stats
+Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nirmalkumar-act&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
@@ -110,7 +110,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸ“ˆ Activity Graph
+Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmalkumar-act&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
@@ -118,7 +118,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸ† Trophy Wall
+Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nirmalkumar-act&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
@@ -126,7 +126,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸ’¼ Work Experience
+Work Experience
 
 <details>
 <summary><b>ðŸ¢ Dev Technology Solutions &nbsp;Â·&nbsp; Java Full Stack Intern &nbsp;Â·&nbsp; 2024 &nbsp;Â·&nbsp; Salem, Tamil Nadu</b></summary>
@@ -148,7 +148,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸš€ Featured Projects
+Featured Projects
 
 <div align="center">
 
@@ -161,7 +161,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸ… Achievements
+Achievements
 
 <div align="center">
 
@@ -177,7 +177,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸŽ“ Education
+Education
 
 <div align="center">
 
@@ -191,7 +191,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸ“š Currently Learning
+Currently Learning
 
 ```
 ðŸ§± System Design         â†’  HLD, LLD, Scalability Patterns, Microservices
@@ -204,7 +204,7 @@ public class Nirmalkumar {
 
 ---
 
-## ðŸŒ Connect With Me
+Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/nirmal-kumar-130b92314">
